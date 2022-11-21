@@ -5,9 +5,6 @@ public class JuegoAdivinanzaNumeros {
     private static int numeroSecreto =1 + (int) (Math.random() * 100);
     Scanner sc= new Scanner(System.in);
     private static int propuesta;
-
-
-
     public static void main(String[] args) {
         System.out.println(numeroSecreto);
         Scanner sc= new Scanner(System.in);
