@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="Recursividad, palindromo texto">
+    <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="Recursividad, mas recursividad">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lolo/Recursividad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lolo/Recursividad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669231330321</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Recursividad, mas recursividad">
+      <created>1669232052520</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669232052520</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +150,7 @@
     <MESSAGE value="Creacion de 3.4 Strings y empezamos" />
     <MESSAGE value="Recursividad, alla vamos" />
     <MESSAGE value="Recursividad, palindromo texto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recursividad, palindromo texto" />
+    <MESSAGE value="Recursividad, mas recursividad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursividad, mas recursividad" />
   </component>
 </project>
