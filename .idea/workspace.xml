@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="Creacion de 3.4 Strings y empezamos">
-      <change afterPath="$PROJECT_DIR$/src/Lolo/Recursividad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lolo/StringsOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lolo/StringsOne.java" afterDir="false" />
+    <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="Recursividad, alla vamos">
+      <change beforePath="$PROJECT_DIR$/src/Lolo/Recursividad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lolo/Recursividad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669146320442</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Recursividad, alla vamos">
+      <created>1669229927525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669229927525</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Recursividad, alla vamos">
+      <created>1669229940943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669229940943</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,17 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creacion de 3.4 Strings y empezamos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de 3.4 Strings y empezamos" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lolo/Recursividad.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Recursividad, alla vamos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursividad, alla vamos" />
   </component>
 </project>
