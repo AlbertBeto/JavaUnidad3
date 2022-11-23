@@ -22,9 +22,9 @@ public class StringsOne {
          return str.charAt(indice);
          }
 
-         public static boolean sonIguales(String str1, String str2){
+         //public static boolean sonIguales(String str1, String str2){
         // comprueba si son iguales
-         }
+         //}
 
          public static void main(String[] args){
         System.out.println(StringsOne.getIndice(0,"Patri"));}
