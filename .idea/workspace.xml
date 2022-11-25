@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="Hasta el 6 del ejercicio Strings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarea 3.4 STRING DAW 1W ALBERT PB.doc" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea 3.4 STRING DAW 1W ALBERT PB.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lolo/StringsOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lolo/StringsOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,20 +197,5 @@
     <MESSAGE value="Recursividad, mas recursividad" />
     <MESSAGE value="Hasta el 6 del ejercicio Strings" />
     <option name="LAST_COMMIT_MESSAGE" value="Hasta el 6 del ejercicio Strings" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lolo/StringsOne.java</url>
-          <line>66</line>
-          <properties class="Lolo.StringsOne" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
