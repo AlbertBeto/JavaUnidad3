@@ -1,5 +1,3 @@
-package Lolo;
-
 public class StringsOne {
 
     // Dado por la profesora

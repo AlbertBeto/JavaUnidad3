@@ -1,5 +1,3 @@
-package Lolo;
-
 public class RecursividadString {
     private static int cuenta=0;
     private static char ultimaLetra;

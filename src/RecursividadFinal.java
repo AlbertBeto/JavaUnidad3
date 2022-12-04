@@ -1,5 +1,3 @@
-package Lolo;
-
 import java.sql.SQLOutput;
 
 public class RecursividadFinal {
