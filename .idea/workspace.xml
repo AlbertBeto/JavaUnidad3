@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="Hasta el 6 del ejercicio Strings">
+    <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lolo/RecursividadFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lolo/RecursividadString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarea 3.4 STRING DAW 1W ALBERT PB.doc" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea 3.4 STRING DAW 1W ALBERT PB.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lolo/StringsOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lolo/StringsOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,21 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.StringsOne">
-    <configuration name="CalculoTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculoTester" />
-      <module name="Tema3 POO" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Estatica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estatica" />
-      <module name="Tema3 POO" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RecursividadString">
     <configuration name="JuegoAdivinanzaNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JuegoAdivinanzaNumeros" />
       <module name="Tema3 POO" />
@@ -63,6 +48,32 @@
     </configuration>
     <configuration name="Recursividad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lolo.Recursividad" />
+      <module name="Tema3 POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lolo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursividadFinal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lolo.RecursividadFinal" />
+      <module name="Tema3 POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lolo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursividadString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lolo.RecursividadString" />
       <module name="Tema3 POO" />
       <extension name="coverage">
         <pattern>
@@ -89,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursividadString" />
+        <item itemvalue="Application.RecursividadFinal" />
         <item itemvalue="Application.StringsOne" />
         <item itemvalue="Application.Recursividad" />
         <item itemvalue="Application.JuegoAdivinanzaNumeros" />
-        <item itemvalue="Application.Estatica" />
-        <item itemvalue="Application.CalculoTester" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669310483538</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="STRINGS ACABADOS PERO FALTAN EL 14 Y 15 DE 16">
+      <created>1669346686816</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669346686816</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +214,47 @@
     <MESSAGE value="Recursividad, palindromo texto" />
     <MESSAGE value="Recursividad, mas recursividad" />
     <MESSAGE value="Hasta el 6 del ejercicio Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hasta el 6 del ejercicio Strings" />
+    <MESSAGE value="STRINGS ACABADOS PERO FALTAN EL 14 Y 15 DE 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="STRINGS ACABADOS PERO FALTAN EL 14 Y 15 DE 16" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lolo/RecursividadFinal.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lolo/RecursividadString.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lolo/RecursividadString.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lolo/RecursividadString.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lolo/RecursividadString.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lolo/RecursividadFinal.java</url>
+          <line>67</line>
+          <properties class="Lolo.RecursividadFinal" method="sumaDigitos">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
