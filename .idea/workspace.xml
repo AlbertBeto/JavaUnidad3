@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="Hasta el 6 del ejercicio Strings">
+    <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="Incorporo archivo DOC de ejercicios">
+      <change afterPath="$PROJECT_DIR$/src/Lolo/RecursividadReal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tema3 POO/Lolo/Recursividad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tema3 POO/Lolo/Recursividad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lolo/Recursividad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lolo/Recursividad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.StringsOne">
+  <component name="RunManager" selected="Application.Recursividad">
     <configuration name="CalculoTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculoTester" />
       <module name="Tema3 POO" />
@@ -86,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringsOne" />
         <item itemvalue="Application.Recursividad" />
+        <item itemvalue="Application.StringsOne" />
         <item itemvalue="Application.JuegoAdivinanzaNumeros" />
         <item itemvalue="Application.Estatica" />
         <item itemvalue="Application.CalculoTester" />
@@ -173,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669310483538</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Incorporo archivo DOC de ejercicios">
+      <created>1669310633946</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669310633946</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +203,8 @@
     <MESSAGE value="Recursividad, palindromo texto" />
     <MESSAGE value="Recursividad, mas recursividad" />
     <MESSAGE value="Hasta el 6 del ejercicio Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hasta el 6 del ejercicio Strings" />
+    <MESSAGE value="Incorporo archivo DOC de ejercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Incorporo archivo DOC de ejercicios" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
