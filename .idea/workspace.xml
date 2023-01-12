@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c77ee543-0fa6-4a90-b673-62441fb2bf0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Coches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursividad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Viaje.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tema3 POO/Lolo/Recursividad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tema3 POO/Lolo/StringsOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tema3 POO/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tema3 POO/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,28 +38,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager" selected="Application.RecursividadString">
-    <configuration name="JuegoAdivinanzaNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JuegoAdivinanzaNumeros" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;B:/Cerbell/GSDAW/PROGRAMACIONJAVA/UNIDAD 3/JAVA/Tema3 Suelo/SueloAlfombra&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Estatica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Estatica" />
       <module name="Tema3 POO" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursividad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lolo.Recursividad" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Tema3 POO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Estatica" />
         <item itemvalue="Application.RecursividadString" />
         <item itemvalue="Application.RecursividadFinal" />
         <item itemvalue="Application.StringsOne" />
-        <item itemvalue="Application.Recursividad" />
-        <item itemvalue="Application.JuegoAdivinanzaNumeros" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670194639954</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="REORGANIZACION DE RAIZ">
+      <created>1670197223214</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670197223214</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,24 +229,34 @@
     <MESSAGE value="Hasta el 6 del ejercicio Strings" />
     <MESSAGE value="STRINGS ACABADOS PERO FALTAN EL 14 Y 15 DE 16" />
     <MESSAGE value="RECURSIVIDAD STRING ACABADA MENOS LOS DOS ULTIMOS" />
-    <option name="LAST_COMMIT_MESSAGE" value="RECURSIVIDAD STRING ACABADA MENOS LOS DOS ULTIMOS" />
+    <MESSAGE value="REORGANIZACION DE RAIZ" />
+    <option name="LAST_COMMIT_MESSAGE" value="REORGANIZACION DE RAIZ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lolo/RecursividadFinal.java</url>
+          <url>file://$PROJECT_DIR$/src/RecursividadFinal.java</url>
           <line>68</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Lolo/RecursividadFinal.java</url>
+          <url>file://$PROJECT_DIR$/src/RecursividadFinal.java</url>
           <line>67</line>
           <properties class="Lolo.RecursividadFinal" method="sumaDigitos">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Estatica.java</url>
+          <line>8</line>
+          <properties class="Estatica" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
